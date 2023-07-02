@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Carta-Mazzo-Modifica/1.0.0": {
+        "runtime": {
+          "Carta-Mazzo-Modifica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Carta-Mazzo-Modifica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

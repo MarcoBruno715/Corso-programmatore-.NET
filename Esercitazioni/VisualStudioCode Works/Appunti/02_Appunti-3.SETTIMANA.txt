@@ -1,0 +1,842 @@
+/***********************************************************************************************************************
+ * // Playground 2d6                                                                                                   *
+ ***********************************************************************************************************************/
+
+Esercitazione con dadi a 6 faccie 
+
+ Il Playgroud 2d6 è sudddiviso in in 12 esercitazioni nella quale abbiano usato :
+ La funzione Random e metodo Next(min, max) della classe Random. 
+ Operatore di assegnazione di sottrazione -=.
+ Il Ciclo while e le condizione if/else if/else.
+ Ed infine la suddivisione in classi.
+
+\-----------------------------------------------------------------------------------------------------------------------------------------------------------------/
+(1)  Random
+
+Funzione casuale nel test del codice
+ L'utilizzo della funzione casuale (random) è importante durante i test del codice per verificare il comportamento del programma in diverse situazioni e con 
+ diverse input.
+ Infatti, quando si scrive un programma, è importante considerare tutti i possibili input e scenari che possono verificarsi durante l'esecuzione del programma. 
+ L'utilizzo della funzione casuale può essere utile per generare input casuali e non prevedibili, in modo da testare il programma in modo più completo.
+ Ad esempio, se si sta scrivendo un programma che deve gestire una sequenza di numeri, è possibile utilizzare la funzione casuale per generare una serie di numeri 
+ casuali da utilizzare come input del programma.
+ In questo modo, si può verificare se il programma funziona correttamente con numeri diversi e non prevedibili, non solo con numeri specifici inseriti manualmente.
+
+Inoltre, l'utilizzo della funzione casuale può aiutare a identificare eventuali errori o bug nel programma. Ad esempio, se
+ il programma produce risultati errati quando viene eseguito con numeri casuali, può essere un segnale che il programma non è stato scritto in modo corretto o che 
+ presenta qualche problema
+
+*/
+	// Generazione di un numero casuale
+	Random random = new Random();                   // Crea un oggetto di tipo Random
+	// Genera un numero casuale tra 1 e 6
+	int numero = random.Next(1, 7);                 // intervallo semi-aperto [1, 7)
+	// Stampa il numero generato sulla console
+	Console.WriteLine("Il numero generato è: " + numero);  
+
+/*
+ In questo esempio, viene utilizzata la classe Random per generare un numero random tra 1 e 6.
+ Il metodo Next viene utilizzato per specificare l'intervallo di numeri da generare, con il primo parametro che rappresenta il valore minimo e il secondo parametro
+ che rappresenta il valore massimo (escluso).
+ Il valore generato viene quindi memorizzato in una variabile di tipo int chiamata "numero", che viene utilizzata per stampare il numero generato sulla console.
+ Per eseguire il codice, è possibile copiarlo in un file di codice sorgente (ad esempio "Program.cs") all 'interno di un progetto in Visual Studio, quindi compilare
+ ed eseguire il progetto.
+
+
+In realtà, la funzione Random.Next(min, max) genera un numero casuale all'interno dell'intervallo semi-aperto [min, max), ovvero un intervallo che comprende
+ il valore minimo e esclude il valore massimo.
+ Quindi, se si vuole generare un numero casuale tra 1 e 6 inclusi, è necessario impostare il valore di min a 1 e il valore di max a 7.
+ In questo modo, l'intervallo semi-aperto [1, 7) corrisponderà all'intervallo chiuso [1, 6].
+ In sostanza, il valore 7 viene utilizzato come limite superiore dell'intervallo semi-aperto, ma poiché questo valore viene escluso dalla generazione
+ di numeri casuali, l'intervallo effettivo è [1, 6].
+
+\-----------------------------------------------------------------------------------------------------------------------------------------------------------------/
+
+(2) Random 2 dadi + somma
+
+/*
+ Semplice codice per visualizzare il risultato del lancio di due dadi in console
+ In questo esempio, viene utilizzata la classe Random per generare il risultato del lancio di due dadi. Sono
+ generati due numeri casuali compresi tra 1 e 6 utilizzando il metodo Next(min, max) e memorizzati nelle variabili
+ dado1 e dado2. Il valore della somma dei due dadi viene poi calcolato e memorizzato nella variabile somma.
+ Infine, il risultato del lancio dei dadi viene stampato sulla console utilizzando il metodo Console.WriteLine().
+
+*/
+
+	// Genera un numero casuale compreso tra 1 e 6
+	Random random = new Random();
+	// Genera un numero casuale compreso tra 1 e 6
+	int dado1 = random.Next(1, 7);
+	int dado2 = random.Next(1, 7);
+	// Calcola la somma dei due dadi
+	int somma = dado1 + dado2;
+	
+	// Stampa il risultato del lancio dei dadi
+	Console.WriteLine("Primo Dado: " + dado1);
+	Console.WriteLine("Secondo Dado: " + dado2);
+	Console.WriteLine("Lancio: " + somma);
+
+\-----------------------------------------------------------------------------------------------------------------------------------------------------------------/
+
+(3) somma + variabile soglia + condizioni 
+
+/*
+ Semplice codice che verifica se la somma dei dadi è superiore ad un determinato numero
+ In questo esempio, viene utilizzato lo stesso codice per generare il risultato del lancio di due dadi, ma viene aggiunta una variabile soglia che indica il
+ valore minimo che la somma dei dadi deve superare per considerarsi valida.
+ Dopo aver calcolato la somma dei dadi, viene utilizzata una istruzione if-else per verificare se la somma è maggiore della soglia.
+ Se la somma è maggiore della soglia, viene stampato un messaggio indicando che la somma è superiore alla soglia, altrimenti viene stampato un messaggio
+ che indica che la somma non è superiore alla soglia.
+
+*/
+
+		// Genera un numero casuale compreso tra 1 e 6
+		Random random = new Random();
+		int dado1 = random.Next(1, 7);
+		int dado2 = random.Next(1, 7);
+		// Calcola la somma dei due dadi
+		int somma = dado1 + dado2;
+		// Soglia minima per considerare il lancio valido
+		int soglia = 7;
+
+			Console.WriteLine("Il risultato del lancio dei dadi è: " + somma);
+
+		if (somma > soglia)
+		{
+			Console.WriteLine("Lancio superiore a " + soglia);
+		}
+		else
+		{
+			Console.WriteLine("Lancio non superiore a " + soglia);
+		}
+
+\-----------------------------------------------------------------------------------------------------------------------------------------------------------------/
+
+(4) Semplice codice che verifica se i dadi sono uguali
+
+/*
+ 
+ In questo esempio, vengono generati due numeri casuali rappresentanti i due dadi utilizzando il metodo Next(min, max) della classe Random.
+ Successivamente, viene utilizzata una istruzione if-else per verificare se i due dadi sono uguali.
+ Se i dadi sono uguali, viene stampato un messaggio che indica che i dadi sono uguali, altrimenti viene stampato un messaggio che indica che i dadi non sono uguali.
+
+*/
+// Genera un numero casuale compreso tra 1 e 6
+ Random random = new Random();
+ int dado1 = random.Next(1, 7);
+ int dado2 = random.Next(1, 7);
+// Stampa il risultato del lancio dei dadi
+    Console.WriteLine("Lancio: " + dado1 + " e " + dado2);
+// Verifica se i dadi sono uguali
+    if (dado1 == dado2)
+{
+    Console.WriteLine("I dadi sono uguali");
+}
+else
+{
+    Console.WriteLine("I dadi non sono uguali");
+}
+
+\-----------------------------------------------------------------------------------------------------------------------------------------------------------------/
+
+(5)  Console.ReadLine() per attendere che l'utente schiacci "INVIO"
+
+/*
+ In questo esempio, viene utilizzata la funzione Console.ReadLine() per attendere che l'utente schiacci "INVIO" per lanciare i dadi.
+ Dopo il lancio dei dadi, viene generata la somma dei dadi e viene verificato se la somma è superiore alla soglia.
+ Se la somma è maggiore della soglia, viene stampato un messaggio indicando che la somma è superiore alla soglia,
+ altrimenti viene stampato un messaggio che indica che la somma non è superiore alla soglia.
+
+*/
+// Genera un numero casuale compreso tra 1 e 6
+Console.WriteLine("Premi INVIO per lanciare i dadi...");
+// Attende che l'utente schiacci "INVIO"
+Console.ReadLine();
+// Genera un numero casuale compreso tra 1 e 6
+Random random = new Random();
+int dado1 = random.Next(1, 7);
+int dado2 = random.Next(1, 7);
+int somma = dado1 + dado2;
+// Soglia minima per considerare il lancio valido
+int soglia = 7;
+
+	Console.WriteLine("Il risultato è: " + somma);
+
+if (somma > soglia)
+{
+	Console.WriteLine("Lancio superiore alla soglia di " + soglia);
+}
+else
+{
+	Console.WriteLine("Lancio non è superiore alla soglia di " + soglia);
+}
+
+
+\-----------------------------------------------------------------------------------------------------------------------------------------------------------------/
+
+(6) soglia +  ciclo while
+
+/*
+ Implementa codice: se la somma è inferiore alla soglia il programma chiede al giocatore di provare un altro lancio
+
+ In questo esempio, viene utilizzato un ciclo while che continua finché la somma dei dadi non supera una determinata soglia.
+ All'interno del ciclo, viene utilizzata la funzione Console.ReadLine() per attendere che l'utente schiacci "INVIO"
+ per lanciare i dadi. Dopo il lancio dei dadi, viene generata la somma dei dadi e viene verificato
+ se la somma è superiore alla soglia. Se la somma è maggiore della soglia, viene stampato un messaggio indicando che la somma è superiore alla soglia e 
+ il ciclo si interrompe.
+ Se la somma non è superiore alla soglia, viene stampato un messaggio che invita l'utente a riprovare.
+
+*/
+
+
+        int soglia = 7;
+
+        while (true)
+        {
+            Console.WriteLine("Premi INVIO per lanciare i dadi...");
+            Console.ReadLine();
+
+            Random random = new Random();
+
+            int dado1 = random.Next(1, 7);
+            int dado2 = random.Next(1, 7);
+            int somma = dado1 + dado2;
+
+            Console.WriteLine("Il risultato è: " + somma);
+
+            if (somma > soglia)
+            {
+                Console.WriteLine("La somma dei dadi è superiore a" + soglia);
+                break;
+            }
+            else
+            {
+                Console.WriteLine("La somma dei dadi non è superiore a" + soglia);
+            }
+        }
+
+\-----------------------------------------------------------------------------------------------------------------------------------------------------------------/
+
+(7)  variabile tentativi
+
+/*
+ Modifica codice: il giocatore ha a disposizione 5 tentativi
+
+ In questo esempio, viene utilizzata una variabile tentativi per definire il numero massimo di volte che l'utente può lanciare i dadi e una variabile 
+ conteggioTentativi per tenere traccia del numero di tentativi effettuati.
+
+ Viene utilizzato un ciclo while
+*/
+
+int soglia = 7;
+int tentativi = 5;
+int conteggioTentativi = 0;
+
+while (conteggioTentativi < tentativi)
+{
+    conteggioTentativi++;
+
+    Console.WriteLine("Tentativo #" + conteggioTentativi + ": premi INVIO");
+    Console.ReadLine();
+
+    Random random = new Random();
+    int dado1 = random.Next(1, 7);
+    int dado2 = random.Next(1, 7);
+    int somma = dado1 + dado2;
+
+    Console.WriteLine("Il risultato è: " + somma);
+
+    if (somma > soglia)
+    {
+        Console.WriteLine("Lancio superiore a " + soglia);
+        break;
+    }
+    else if (conteggioTentativi == tentativi)
+    {
+        Console.WriteLine("Hai esaurito i tuoi tentativi.");
+     }
+    else
+    {
+        Console.WriteLine("hai ancora " + (tentativi - conteggioTentativi) + " tentativi.");
+    }
+}
+
+\-----------------------------------------------------------------------------------------------------------------------------------------------------------------/
+
+(8)  Viene stampato il risultato del lancio dei dadi dell'utente e del computer e viene verificato chi ha ottenuto la somma più alta.
+
+/*
+Gamification: il giocatore preme INVIO per lancia i dadi contro il computer, chi fa il lancio più alto vince
+ Viene stampato il risultato del lancio dei dadi dell'utente e del computer e viene verificato chi ha ottenuto la somma più alta.
+Se la somma dei dadi dell'utente è maggiore di quella del computer, viene stampato un messaggio che indica che l'utente ha vinto.
+Se la somma dei dadi del computer è maggiore di quella dell'utente, viene stampato un messaggio che indica che l'utente ha perso.
+Se le somme dei dadi sono uguali, viene stampato un messaggio che indica un pareggio.
+
+*/
+ Console.WriteLine("Premi INVIO per lanciare i dadi contro il computer...");
+ Console.ReadLine();
+ Random random = new Random();
+
+int dado1Giocatore = random.Next(1, 7);
+int dado2Giocatore = random.Next(1, 7);
+int sommaGiocatore = dado1Giocatore + dado2Giocatore;
+
+Console.WriteLine("Il tuo lancio dei dadi è: " + sommaGiocatore);
+
+int dado1Computer = random.Next(1, 7);
+int dado2Computer = random.Next(1, 7);
+int sommaComputer = dado1Computer + dado2Computer;
+
+Console.WriteLine("Il lancio dei dadi del computer è: " + sommaComputer);
+
+if (sommaGiocatore > sommaComputer)
+{
+    Console.WriteLine("Hai vinto!");
+}
+else if (sommaComputer > sommaGiocatore)
+{
+    Console.WriteLine("Hai perso!");
+}
+else
+{
+    Console.WriteLine("Pareggio!");
+}
+
+\-----------------------------------------------------------------------------------------------------------------------------------------------------------------/
+
+(9)  punteggio iniziale
+
+/*
+ Gamification: il giocatore ed il computer hanno un proprio punteggio iniziale di 20
+ In questo esempio, vengono utilizzate due variabili, punteggioGiocatore e punteggioComputer,
+ per tenere traccia del punteggio dei due giocatori.
+ Il punteggio iniziale per entrambi i giocatori è impostato a 20. Viene utilizzata la funzione Random.Next() per generare una somma per entrambi i giocatori, 
+ quindi viene verificato chi ha ottenuto la somma più alta.
+ Se la somma dei dadi dell'utente è maggiore di quella del computer, viene stampato un messaggio che indica che l'utente ha vinto e viene decrementato 
+ il punteggio del computer.
+ Se la somma dei dadi del computer è maggiore di quella dell'utente, viene stampato un messaggio che indica che l'utente ha perso e viene decrementato 
+ il punteggio dell'utente.
+ Se le somme dei dadi sono uguali, viene stampato un messaggio che indica un pareggio. Viene quindi stampato il punteggio
+*/
+
+
+        int punteggioGiocatore = 20;
+        int punteggioComputer = 20;
+        Random random = new Random();
+
+        Console.WriteLine("Il tuo punteggio iniziale è: " + punteggioGiocatore);
+        Console.WriteLine("Il punteggio iniziale del computer è: " + punteggioComputer);
+        Console.WriteLine("Premi INVIO per lanciare i dadi contro il computer...");
+        Console.ReadLine();
+
+// indizio codice che presenta un pattern
+
+        int dado1Giocatore = random.Next(1, 7);
+        int dado2Giocatore = random.Next(1, 7);
+        int sommaGiocatore = dado1Giocatore + dado2Giocatore;
+
+        Console.WriteLine("Il risultato del tuo lancio dei dadi è: " + sommaGiocatore);
+
+        int dado1Computer = random.Next(1, 7);
+        int dado2Computer = random.Next(1, 7);
+        int sommaComputer = dado1Computer + dado2Computer;
+
+        Console.WriteLine("Il risultato del lancio dei dadi del computer è: " + sommaComputer);
+
+        if (sommaGiocatore > sommaComputer)
+        {
+            Console.WriteLine("Hai vinto! La somma dei tuoi dadi è maggiore della somma dei dadi del computer.");
+
+            punteggioComputer--;
+        }
+        else if (sommaComputer > sommaGiocatore)
+        {
+            Console.WriteLine("Hai perso! La somma dei dadi del computer è maggiore della somma dei tuoi dadi.");
+
+            punteggioGiocatore--;
+        }
+        else
+        {
+            Console.WriteLine("Pareggio! La somma dei tuoi dadi è uguale alla somma dei dadi del computer.");
+        }
+
+        Console.WriteLine("Il tuo punteggio attuale è: " + punteggioGiocatore);
+        Console.WriteLine("Il punteggio attuale del computer è: " + punteggioComputer);
+
+\-----------------------------------------------------------------------------------------------------------------------------------------------------------------/
+
+(10)   giocatore o il computer raggiungono un punteggio sotto lo zero
+
+/*
+ Gamification: continua il gioco fino a quando il giocatore o il computer raggiungono un punteggio sotto lo zero
+ In questo esempio, viene utilizzata una clausola while per continuare a giocare finché il punteggio di entrambi i giocatori è maggiore di zero.
+ Se uno dei due giocatori raggiunge un punteggio sotto lo zero, il gioco si interrompe. Viene verificato chi ha ottenuto la somma più alta, 
+ e il punteggio di uno dei due giocatori viene decrementato a seconda del risultato.
+ Viene quindi stampato il punteggio attuale dei due giocatori.
+ Se il punteggio di uno dei due giocatori raggiunge lo zero, viene stampato un messaggio di vittoria o sconfitta a seconda del punteggio rimanente.
+ In questo modo, il gioco diventa un po' più interessante e coinvolgente per l'utente, che cerca di battere il computer e mantenere il proprio punteggio 
+ al di sopra dello zero.
+*/
+
+
+int punteggioGiocatore = 20;
+int punteggioComputer = 20;
+Random random = new Random();
+
+Console.WriteLine("Il tuo punteggio iniziale è: " + punteggioGiocatore);
+Console.WriteLine("Il punteggio iniziale del computer è: " + punteggioComputer);
+
+while (punteggioGiocatore > 0 && punteggioComputer > 0)
+{
+    Console.WriteLine("Premi INVIO per lanciare i dadi contro il computer...");
+    Console.ReadLine();
+
+    int dado1Giocatore = random.Next(1, 7);
+    int dado2Giocatore = random.Next(1, 7);
+    int sommaGiocatore = dado1Giocatore + dado2Giocatore;
+
+    Console.WriteLine("Il risultato del tuo lancio dei dadi è: " + sommaGiocatore);
+
+    int dado1Computer = random.Next(1, 7);
+    int dado2Computer = random.Next(1, 7);
+    int sommaComputer = dado1Computer + dado2Computer;
+
+    Console.WriteLine("Il risultato del computer è: " + sommaComputer);
+
+    if (sommaGiocatore > sommaComputer)
+    {
+        Console.WriteLine("Hai vinto!");
+
+        punteggioComputer--;
+    }
+    else if (sommaComputer > sommaGiocatore)
+    {
+        Console.WriteLine("Hai perso!");
+
+        punteggioGiocatore--;
+    }
+    else
+    {
+        Console.WriteLine("Pareggio!");
+    }
+
+    Console.WriteLine("Il tuo punteggio attuale è: " + punteggioGiocatore);
+    Console.WriteLine("Il punteggio attuale del computer è: " + punteggioComputer);
+}
+if (punteggioGiocatore < 0)
+{
+    Console.WriteLine("Hai perso!");
+
+}
+else if (punteggioComputer < 0)
+{
+    Console.WriteLine("Hai vinto!");
+
+}
+
+
+\-----------------------------------------------------------------------------------------------------------------------------------------------------------------/
+
+(11)
+
+ /*
+Gamification Modifica il codice: chi vince il lancio sottrae la somma del proprio lancio del punteggio dell’ opponente
+*/
+
+
+
+int punteggioGiocatore = 20;
+int punteggioComputer = 20;
+Random random = new Random();
+
+Console.WriteLine("Il tuo punteggio iniziale è: " + punteggioGiocatore);
+Console.WriteLine("Il punteggio iniziale del computer è: " + punteggioComputer);
+
+while (punteggioGiocatore > 0 && punteggioComputer > 0)
+{
+    Console.WriteLine("Premi INVIO per lanciare i dadi contro il computer...");
+    Console.ReadLine();
+
+    int dado1Giocatore = random.Next(1, 7);
+    int dado2Giocatore = random.Next(1, 7);
+    int sommaGiocatore = dado1Giocatore + dado2Giocatore;
+
+    Console.WriteLine("Il risultato del tuo lancio dei dadi è: " + sommaGiocatore);
+
+    int dado1Computer = random.Next(1, 7);
+    int dado2Computer = random.Next(1, 7);
+    int sommaComputer = dado1Computer + dado2Computer;
+
+    Console.WriteLine("Il risultato del computer è: " + sommaComputer);
+
+    if (sommaGiocatore > sommaComputer)
+    {
+        Console.WriteLine("Hai vinto!");
+        punteggioComputer -= sommaGiocatore;  // Operatore di assegnazione di sottrazione -= dove il punteggio diminuisce il base al valore di somma
+    }
+    else if (sommaComputer > sommaGiocatore)
+    {
+        Console.WriteLine("Hai perso!");
+        punteggioGiocatore -= sommaComputer;
+    }
+    else
+    {
+        Console.WriteLine("Pareggio!");
+    }
+    Console.WriteLine("Il tuo punteggio attuale è: " + punteggioGiocatore);
+    Console.WriteLine("Il punteggio attuale del computer è: " + punteggioComputer);
+}
+if (punteggioGiocatore < 0)
+{
+    Console.WriteLine("Hai perso!");
+}
+else if (punteggioComputer < 0)
+{
+    Console.WriteLine("Hai vinto!");
+}
+else
+{
+    Console.WriteLine("Qualcosa è andato storto...");
+}
+
+// Operatore di assegnazione di sottrazione -= dove il punteggio diminuisce il base al valore di somma
+
+\-----------------------------------------------------------------------------------------------------------------------------------------------------------------/
+
+(12)   Quusta è la suddivisione in classe dell'esercizio dadi
+
+/*
+ Implementa il codice in classi
+ Il codice rappresenta un gioco in cui il giocatore e il computer lanciano i dadi, e chi ottiene il punteggio più alto vince. 
+
+/*
+class Program
+
+La classe Program contiene il metodo Main, che gestisce il flusso del gioco.
+Nelle prime righe, vengono creati due oggetti Giocatore e un oggetto Dado, con un punteggio iniziale di 20. Viene inoltre creato un oggetto Random, 
+che verrà utilizzato per generare numeri casuali.
+All'interno del ciclo while, vengono lanciati i dadi per il giocatore e il computer, e le somme vengono confrontate per determinare il vincitore di ogni lancio. 
+Se il giocatore vince,
+il punteggio del computer viene sottratto dalla somma dei dadi del giocatore, mentre se il computer vince, il punteggio del giocatore viene sottratto dalla somma 
+dei dadi del computer.
+Il ciclo while continua fino a quando il punteggio del giocatore o del computer raggiunge lo zero o meno. Alla fine del gioco, viene stampato un messaggio che 
+indica se il giocatore ha vinto o perso.
+Nella classe Program non sono presenti costruttori, ma vengono invece istanziati oggetti delle classi Giocatore, Dado e Random utilizzando i loro costruttori 
+predefiniti.
+
+Il costruttore predefinito di una classe viene chiamato quando si crea un nuovo oggetto della classe, e inizializza i valori predefiniti per le proprietà 
+della classe.
+In questo caso, il costruttore di Giocatore inizializza il punteggio del giocatore a 20, mentre il costruttore di Dado non richiede alcun parametro, 
+poiché ogni dado ha sei facce.
+Il costruttore di Random, invece, non richiede alcun parametro e crea un nuovo oggetto Random che viene utilizzato per generare numeri casuali.
+*/
+
+class Program
+    {
+        static void Main(string[] args)
+        {
+            Giocatore giocatore = new Giocatore(20);
+            Giocatore computer = new Giocatore(20);
+            Dado dado = new Dado();
+            Random random = new Random();
+
+            Console.WriteLine("Il tuo punteggio: " + giocatore.Punteggio);
+            Console.WriteLine("Punteggio del computer: " + computer.Punteggio);
+
+            while (giocatore.Punteggio > 0 && computer.Punteggio > 0)
+            {
+                Console.WriteLine("Premi INVIO per lanciare i dadi...");
+                Console.ReadLine();
+
+                int sommaGiocatore = dado.LanciaDadi(random) + dado.LanciaDadi(random);
+                int sommaComputer = dado.LanciaDadi(random) + dado.LanciaDadi(random);
+
+                Console.WriteLine("Il tuo lancio: " + sommaGiocatore);
+                Console.WriteLine("Lancio del computer: " + sommaComputer);
+
+                if (sommaGiocatore > sommaComputer)
+                {
+                    Console.WriteLine("Hai vinto!");
+
+                    computer.SottraiPunteggio(sommaGiocatore);
+                }
+                else if (sommaComputer > sommaGiocatore)
+                {
+                    Console.WriteLine("Hai perso!");
+
+                    giocatore.SottraiPunteggio(sommaComputer);
+                }
+                else
+                {
+                    Console.WriteLine("Pareggio!");
+                }
+                Console.WriteLine("Il tuo punteggio: " + giocatore.Punteggio);
+                Console.WriteLine("Punteggio del computer: " + computer.Punteggio);
+            }
+            if (giocatore.Punteggio < 0)
+            {
+                Console.WriteLine("Hai perso!");
+            }
+            else if (computer.Punteggio < 0)
+            {
+                Console.WriteLine("Hai vinto!");
+            }
+        }
+    }
+
+/*
+class Giocatore
+La classe Giocatore ha un solo costruttore:
+
+public Giocatore(int punteggioIniziale)
+{
+    Punteggio = punteggioIniziale;
+}
+
+Il costruttore prende in input un valore intero punteggioIniziale che rappresenta il punteggio iniziale del giocatore, e lo utilizza per inizializzare 
+la proprietà Punteggio dell'oggetto Giocatore.
+Questo valore iniziale viene memorizzato all'interno dell'oggetto, e può essere successivamente modificato utilizzando il metodo SottraiPunteggio.
+Il costruttore viene utilizzato quando si crea un nuovo oggetto di tipo Giocatore, passando come parametro il punteggio iniziale desiderato. Ad esempio, 
+nella classe Program:
+Giocatore giocatore = new Giocatore(20);
+Giocatore computer = new Giocatore(20);
+In questo modo, vengono creati due oggetti di tipo Giocatore, uno per il giocatore umano e uno per il computer, entrambi con un punteggio iniziale di 20.
+
+*/
+
+class Giocatore
+    {
+        public int Punteggio { get; private set; }
+        public Giocatore(int punteggioIniziale)
+
+        {
+            Punteggio = punteggioIniziale;
+        }
+        public void SottraiPunteggio(int punteggioDaSottrarre)
+        {
+            Punteggio -= punteggioDaSottrarre;
+        }
+    }
+
+/*
+
+class Dado
+
+La classe Dado rappresenta un dado, che può essere lanciato per generare un valore casuale compreso tra 1 e 6.
+Il metodo LanciaDadi prende in input un oggetto Random che viene utilizzato per generare un valore casuale.
+Utilizzando il metodo Next dell'oggetto Random, il metodo LanciaDadi genera un numero intero casuale compreso tra 1 e 7
+(il valore massimo 7 viene escluso), che viene quindi restituito come risultato.
+In questo modo, ogni volta che il metodo LanciaDadi viene chiamato, viene restituito un valore casuale compreso tra 1 e 6, che rappresenta 
+il valore ottenuto dal lancio del dado.
+
+*/
+
+class Dado
+    {
+        public int LanciaDadi(Random random)
+        {
+            return random.Next(1, 7);
+        }
+    }
+
+
+
+/***********************************************************************************************************************
+ * // GIT                                                                                                              *
+ ***********************************************************************************************************************/
+
+Git è un sistema di controllo della versione distribuita, che significa che un clone locale del progetto è un repository di 
+controllo della versione completo. Questi repository locali completamente funzionali semplificano il funzionamento offline o remoto.
+
+Abbiamo seguito le seguenti procedure per inizializzare l'utilizzo di git :
+ 
+COMANDI SUL REPOSITORY LOCALE
+
+Installare git
+
+https://git-scm.com
+
+https://git-scm.com/download/win
+
+Installare GITHub (per poter utilizzare i comandi CLI gh)
+
+https://cli.github.com/
+
+Creare un profilo su Github
+
+https://github.com/
+
+Dal pannello di controllo Settings selezionare Developer settings
+
+Creare un token che abbia i requisiti minimi Workflow e read:org
+
+Da console di VSC utilizzare il comando gh auth login e seguire la procedura
+
+https://www.w3schools.com/git/
+
+il sito con la guida per utilizzare GIT
+
+A QUESTO PUNTO DOVREMMO ESSERE ATTIVI PER VERIFICARE digitare il comando
+
+GIT --version
+
+(dovrebbe visualizzare questo) git version 2.40.0.windows.1 o "la piu aggiornata quando leggerai questo testo"
+
+0 - Comando git init
+git init permette di inizializzare il reposito locale
+git reset è il comando contrario che permette di deinizializzare
+
+1 - Comando ls
+ls elencherà i file nella directory con la data di creazione
+
+2 - Comando git status
+git status verifica quali files sono compresi nel controllo versione 
+
+3 - Comando git add <file> (es. git add index.html)
+git add index.html aggiunge al controllo della versione un file specifico e permette anche di aggiornare il controllo della versione
+
+4 Comando git rm --cached <file> (es. git rm --cached index.html)
+rm --cached esclude il files scelto dal controllo versione
+
+I file nella cartella del repository Git possono trovarsi in uno dei 2 stati seguenti:
+
+Tracciato: file di cui Git è a conoscenza e che vengono aggiunti al repository
+Untracked - file che si trovano nella directory di lavoro, ma non aggiunti alla cartella deposito
+
+5 Comando git add --all
+permette di aggiungere alla staged area più files contemporaneamente
+
+6 - Comando git restore <file> (git restore index.html)
+ripristina lo stato precedente del file prima della modifica
+
+7 - Comando git commit-m "message"
+permette di creare un punto di salvataggio come una fotografia del codice ed il messaggio indica suggerimenti riguardanti la modifica
+
+per farlo richiede di essere loggati su GIT
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+8 - per verificare che effettivamente sia stato riconosciuto l'utente digitare il comando
+git config user.name o git config user.email
+
+9 - il comando --short
+permette di avere un feedback più sintetico
+
+10 - Comando -a permette di effettuare il commit di più files contemporaneamente e di editare direttamente il messaggio di commit nella console
+per farlo deve essere stata effettuata una modifica ad almeno un file
+
+Nota: I flag di stato brevi sono:
+
+?? - File non tracciati
+A - File aggiunti allo stage
+M - File modificati
+D - File eliminati
+
+git commit -a (nota che è non è molto utilizzato in quanto risulta scomodo )
+"Nots personale" : non appare come dovrebbe 
+
+per uscire dell'inserimento del messaggio premere esc
+
+per non salvare le modifiche :qa!
+
+per salvare le modifiche :wq
+
+per uscire :q
+
+11 - Comando git log
+permette di consultare i commit effettuati
+
+12 - Comando git --help glossary
+permette di visualizzare la pagina online con la documentazione
+
+13 - Comando git --help tutorial
+permette di visualizzare la pagina online con tutorial
+
+13 - Comando git help --all
+fa vedere tutti i comandi e bisogna ricordarsi di premere la freccia in basso per vederli
+
+PAGINA alla quale consultare i comandi principali https://www.w3schools.com/git/git_help.asp?remote=github
+
+13 - Comando git branch <nomedelbranch>
+permette di creare un ramo che si differenzia dal branch master
+
+15 - Comando checkout <nomedelbranch>
+permette di verificare in quale branch mi trovo attualmente
+
+16 - Comando git merge <nomedelbranchdaunirealmaster> (git merge readme)
+permette di unire i branch al branch principale master Git vede questo come una continuazione del master
+
+FINO A QUESTO PUNTO ABBIAMO LAVORATO CON COMANDI SUL REPOSITORY LOCALE
+
+REPOSITORY REMOTO
+
+Per prima cosa creare il repository remoto tramite il pannello di controllo su GitHub
+
+git remote add origin https://github.com/delectablerec/full-stack-dotnet.git
+impostare un origine remota sulla quale effettuare i push
+
+git remote remove origin
+resettare un origine
+
+git remote -v
+per consultare l'origine attuale
+
+git push -u -f origin master (quello di josef)
+git push --set-upstream origin master
+effettuare il push
+
+
+Video di riferimento : https://www.youtube.com/watch?v=dJ49Jiyb4mU
+
+sito di riferimento 
+https://www.w3schools.com/git/default.asp?remote=github
+
+/***********************************************************************************************************************
+ * // Introduzione all'utilizzo di classi e metodi                                                                     *
+ ***********************************************************************************************************************/
+
+
+
+
+
+I vantaggi o svantaggi di lavorare con le classi invece che con la struttura tradizionale
+
+Ad esempio come funziona il metodo costruttore oppure anche come si crea un oggetto a partire da una classe
+
+
+
+Quando si hanno molte linee di codice risulta difficile lavorarci  , per questo è una buona pratica suddividere il programma in classi 
+
+
+public class Person
+{
+   private string last;
+   private string first;
+
+   public Person(string lastName, string firstName)
+   {
+      last = lastName;
+      first = firstName;
+   }
+
+   // Remaining implementation of Person class.
+}
+
+Se un costruttore può essere implementato come istruzione unica, è possibile usare una definizione del corpo dell'espressione.
+ L'esempio seguente definisce una classe Location il cui costruttore ha un solo parametro di stringa denominato name. La definizione del corpo 
+ dell'espressione assegna l'argomento al campo locationName.
+C#
+
+public class Location
+{
+   private string locationName;
+
+   public Location(string name) => Name = name;
+
+   public string Name
+   {
+      get => locationName;
+      set => locationName = value;
+   }
+}

@@ -1,0 +1,15 @@
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/10_Idea_Completa/bin/Debug/net7.0/10_2D6_Gamification_Gioco
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/10_Idea_Completa/bin/Debug/net7.0/10_2D6_Gamification_Gioco.deps.json
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/10_Idea_Completa/bin/Debug/net7.0/10_2D6_Gamification_Gioco.runtimeconfig.json
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/10_Idea_Completa/bin/Debug/net7.0/10_2D6_Gamification_Gioco.dll
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/10_Idea_Completa/bin/Debug/net7.0/10_2D6_Gamification_Gioco.pdb
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/10_Idea_Completa/obj/Debug/net7.0/10_2D6_Gamification_Gioco.csproj.AssemblyReference.cache
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/10_Idea_Completa/obj/Debug/net7.0/10_2D6_Gamification_Gioco.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/10_Idea_Completa/obj/Debug/net7.0/10_2D6_Gamification_Gioco.AssemblyInfoInputs.cache
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/10_Idea_Completa/obj/Debug/net7.0/10_2D6_Gamification_Gioco.AssemblyInfo.cs
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/10_Idea_Completa/obj/Debug/net7.0/10_2D6_Gamification_Gioco.csproj.CoreCompileInputs.cache
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/10_Idea_Completa/obj/Debug/net7.0/10_2D6_Gamification_Gioco.dll
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/10_Idea_Completa/obj/Debug/net7.0/refint/10_2D6_Gamification_Gioco.dll
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/10_Idea_Completa/obj/Debug/net7.0/10_2D6_Gamification_Gioco.pdb
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/10_Idea_Completa/obj/Debug/net7.0/10_2D6_Gamification_Gioco.genruntimeconfig.cache
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/10_Idea_Completa/obj/Debug/net7.0/ref/10_2D6_Gamification_Gioco.dll

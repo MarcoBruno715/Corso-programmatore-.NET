@@ -1,0 +1,15 @@
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/04_2D6_Doppi/bin/Debug/net7.0/04_2D6_Doppi
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/04_2D6_Doppi/bin/Debug/net7.0/04_2D6_Doppi.deps.json
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/04_2D6_Doppi/bin/Debug/net7.0/04_2D6_Doppi.runtimeconfig.json
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/04_2D6_Doppi/bin/Debug/net7.0/04_2D6_Doppi.dll
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/04_2D6_Doppi/bin/Debug/net7.0/04_2D6_Doppi.pdb
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/04_2D6_Doppi/obj/Debug/net7.0/04_2D6_Doppi.csproj.AssemblyReference.cache
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/04_2D6_Doppi/obj/Debug/net7.0/04_2D6_Doppi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/04_2D6_Doppi/obj/Debug/net7.0/04_2D6_Doppi.AssemblyInfoInputs.cache
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/04_2D6_Doppi/obj/Debug/net7.0/04_2D6_Doppi.AssemblyInfo.cs
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/04_2D6_Doppi/obj/Debug/net7.0/04_2D6_Doppi.csproj.CoreCompileInputs.cache
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/04_2D6_Doppi/obj/Debug/net7.0/04_2D6_Doppi.dll
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/04_2D6_Doppi/obj/Debug/net7.0/refint/04_2D6_Doppi.dll
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/04_2D6_Doppi/obj/Debug/net7.0/04_2D6_Doppi.pdb
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/04_2D6_Doppi/obj/Debug/net7.0/04_2D6_Doppi.genruntimeconfig.cache
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/04_2D6_Doppi/obj/Debug/net7.0/ref/04_2D6_Doppi.dll

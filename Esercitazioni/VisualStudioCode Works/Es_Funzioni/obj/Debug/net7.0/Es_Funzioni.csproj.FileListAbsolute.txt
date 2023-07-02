@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Corso fullstack developer\Es_Funzioni\obj\Debug\net7.0\Es_Funzioni.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Corso fullstack developer\Es_Funzioni\obj\Debug\net7.0\Es_Funzioni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Corso fullstack developer\Es_Funzioni\obj\Debug\net7.0\Es_Funzioni.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Corso fullstack developer\Es_Funzioni\obj\Debug\net7.0\Es_Funzioni.AssemblyInfo.cs
+C:\Users\Admin\Documents\Corso fullstack developer\Es_Funzioni\obj\Debug\net7.0\Es_Funzioni.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Corso fullstack developer\Es_Funzioni\bin\Debug\net7.0\Es_Funzioni.exe
+C:\Users\Admin\Documents\Corso fullstack developer\Es_Funzioni\bin\Debug\net7.0\Es_Funzioni.deps.json
+C:\Users\Admin\Documents\Corso fullstack developer\Es_Funzioni\bin\Debug\net7.0\Es_Funzioni.runtimeconfig.json
+C:\Users\Admin\Documents\Corso fullstack developer\Es_Funzioni\bin\Debug\net7.0\Es_Funzioni.dll
+C:\Users\Admin\Documents\Corso fullstack developer\Es_Funzioni\bin\Debug\net7.0\Es_Funzioni.pdb
+C:\Users\Admin\Documents\Corso fullstack developer\Es_Funzioni\obj\Debug\net7.0\Es_Funzioni.dll
+C:\Users\Admin\Documents\Corso fullstack developer\Es_Funzioni\obj\Debug\net7.0\refint\Es_Funzioni.dll
+C:\Users\Admin\Documents\Corso fullstack developer\Es_Funzioni\obj\Debug\net7.0\Es_Funzioni.pdb
+C:\Users\Admin\Documents\Corso fullstack developer\Es_Funzioni\obj\Debug\net7.0\Es_Funzioni.genruntimeconfig.cache
+C:\Users\Admin\Documents\Corso fullstack developer\Es_Funzioni\obj\Debug\net7.0\ref\Es_Funzioni.dll

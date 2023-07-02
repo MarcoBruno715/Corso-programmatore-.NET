@@ -1,0 +1,30 @@
+C:\Users\Admin\Documents\Corso-fullstack-NET\1_esercitazione\bin\Debug\net7.0\1_esercitazione.exe
+C:\Users\Admin\Documents\Corso-fullstack-NET\1_esercitazione\bin\Debug\net7.0\1_esercitazione.deps.json
+C:\Users\Admin\Documents\Corso-fullstack-NET\1_esercitazione\bin\Debug\net7.0\1_esercitazione.runtimeconfig.json
+C:\Users\Admin\Documents\Corso-fullstack-NET\1_esercitazione\bin\Debug\net7.0\1_esercitazione.dll
+C:\Users\Admin\Documents\Corso-fullstack-NET\1_esercitazione\bin\Debug\net7.0\1_esercitazione.pdb
+C:\Users\Admin\Documents\Corso-fullstack-NET\1_esercitazione\obj\Debug\net7.0\1_esercitazione.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Corso-fullstack-NET\1_esercitazione\obj\Debug\net7.0\1_esercitazione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Corso-fullstack-NET\1_esercitazione\obj\Debug\net7.0\1_esercitazione.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Corso-fullstack-NET\1_esercitazione\obj\Debug\net7.0\1_esercitazione.AssemblyInfo.cs
+C:\Users\Admin\Documents\Corso-fullstack-NET\1_esercitazione\obj\Debug\net7.0\1_esercitazione.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Corso-fullstack-NET\1_esercitazione\obj\Debug\net7.0\1_esercitazione.dll
+C:\Users\Admin\Documents\Corso-fullstack-NET\1_esercitazione\obj\Debug\net7.0\refint\1_esercitazione.dll
+C:\Users\Admin\Documents\Corso-fullstack-NET\1_esercitazione\obj\Debug\net7.0\1_esercitazione.pdb
+C:\Users\Admin\Documents\Corso-fullstack-NET\1_esercitazione\obj\Debug\net7.0\1_esercitazione.genruntimeconfig.cache
+C:\Users\Admin\Documents\Corso-fullstack-NET\1_esercitazione\obj\Debug\net7.0\ref\1_esercitazione.dll
+C:\Users\Admin\Documents\Corso fullstack developer\01_es-Console\bin\Debug\net7.0\1_esercitazione.exe
+C:\Users\Admin\Documents\Corso fullstack developer\01_es-Console\bin\Debug\net7.0\1_esercitazione.deps.json
+C:\Users\Admin\Documents\Corso fullstack developer\01_es-Console\bin\Debug\net7.0\1_esercitazione.runtimeconfig.json
+C:\Users\Admin\Documents\Corso fullstack developer\01_es-Console\bin\Debug\net7.0\1_esercitazione.dll
+C:\Users\Admin\Documents\Corso fullstack developer\01_es-Console\bin\Debug\net7.0\1_esercitazione.pdb
+C:\Users\Admin\Documents\Corso fullstack developer\01_es-Console\obj\Debug\net7.0\1_esercitazione.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Corso fullstack developer\01_es-Console\obj\Debug\net7.0\1_esercitazione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Corso fullstack developer\01_es-Console\obj\Debug\net7.0\1_esercitazione.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Corso fullstack developer\01_es-Console\obj\Debug\net7.0\1_esercitazione.AssemblyInfo.cs
+C:\Users\Admin\Documents\Corso fullstack developer\01_es-Console\obj\Debug\net7.0\1_esercitazione.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Corso fullstack developer\01_es-Console\obj\Debug\net7.0\1_esercitazione.dll
+C:\Users\Admin\Documents\Corso fullstack developer\01_es-Console\obj\Debug\net7.0\refint\1_esercitazione.dll
+C:\Users\Admin\Documents\Corso fullstack developer\01_es-Console\obj\Debug\net7.0\1_esercitazione.pdb
+C:\Users\Admin\Documents\Corso fullstack developer\01_es-Console\obj\Debug\net7.0\1_esercitazione.genruntimeconfig.cache
+C:\Users\Admin\Documents\Corso fullstack developer\01_es-Console\obj\Debug\net7.0\ref\1_esercitazione.dll

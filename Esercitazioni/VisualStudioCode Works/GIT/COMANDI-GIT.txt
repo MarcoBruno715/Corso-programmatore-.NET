@@ -1,0 +1,158 @@
+Installare git
+
+https://git-scm.com
+
+Installare GITHub (per poter utilizzare i comandi CLI gh)
+
+https://cli.github.com/
+
+Creare un profilo su Github
+
+https://github.com/
+
+Dal pannello di controllo Settings selezionare Developer settings
+
+Creare un token che abbia i requisiti minimi Workflow e read:org
+
+Da console di VSC utilizzare il comando gh auth login e seguire la procedura
+
+https://www.w3schools.com/git/
+
+il sito con la guida per utilizzare GIT
+
+A QUESTO PUNTO DOVREMMO ESSERE ATTIVI PER VERIFICARE digitare il comando
+
+GIT --version
+
+(dovrebbe visualizzare questo) git version 2.40.0.windows.1
+
+0 - Comando git init
+git init permwttw di inizializzare il reposito locale
+git reset è il comando contrario che permette di deinizializzare
+
+1 - Comando ls
+ls elencherà i file nella directory con la data di creazione
+
+2 - Comando git status
+git status verifica quali files sono compresi nel controllo versione 
+
+3 - Comando git add <file> (es. git add index.html)
+git add index.html aggiunge al controllo della versione un file specifico e permette anche di aggiornare il controllo della versione
+
+4 Comando git rm --cached <file> (es. git rm --cached index.html)
+rm --cached esclude il files scelto dal controllo versione
+
+I file nella cartella del repository Git possono trovarsi in uno dei 2 stati seguenti:
+
+Tracciato: file di cui Git è a conoscenza e che vengono aggiunti al repository
+Untracked - file che si trovano nella directory di lavoro, ma non aggiunti alla cartella deposito
+
+5 Comando git add --all
+permette di aggiungere alla staged area più files contemporaneamente
+
+6 - Comando git restore <file> (git restore index.html)
+ripristina lo stato precedente del file prima della modifica
+
+7 - Comando git commit-m "message"
+permette di creare un punto di salvataggio come una fotografia del codice ed il messaggio indica suggerimenti riguardanti la modifica
+
+per farlo richiede di essere loggati su GIT
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+8 - per verificare che effettivamente sia stato riconosciuto l'utente digitare il comando
+git config user.name o git config user.email
+
+9 - il comando --short
+permette di avere un feedback più sintetico
+
+10 - Comando -a permette di effettuare il commit di più files contemporaneamente e di editare direttamente il messaggio di commit nella console
+per farlo deve essere stata effettuata una modifica ad almeno un file
+
+Nota: I flag di stato brevi sono:
+
+?? - File non tracciati
+A - File aggiunti allo stage
+M - File modificati
+D - File eliminati
+
+git commit -a
+
+per uscire dell'inserimento del messaggio premere esc
+
+per non salvare le modifiche :qa!
+
+per salvare le modifiche :wq
+
+per uscire :q
+
+11 - Comando git log
+permette di consultare i commit effettuati
+
+12 - Comando git --help glossary
+permette di visualizzare la pagina online con la documentazione
+
+13 - Comando git --help tutorial
+permette di visualizzare la pagina online con tutorial
+
+13 - Comando git help --all
+fa vedere tutti i comandi e bisogna ricordarsi di premere la freccia in basso per vederli
+
+PAGINA alla quale consultare i comandi principali https://www.w3schools.com/git/git_help.asp?remote=github
+
+13 - Comando git branch <nomedelbranch>
+permette di creare un ramo che si differenzia dal branch master
+
+15 - Comando checkout <nomedelbranch>
+permette di verificare in quale branch mi trovo attualmente
+
+16 - Comando git merge <nomedelbranchdaunirealmaster> (git merge readme)
+permette di unire i branch al branch principale master Git vede questo come una continuazione del master
+
+FINO A QUESTO PUNTO ABBIAMO LAVORATO CON COMANDI SUL REPOSITORY LOCALE
+
+REPOSITORY REMOTO
+
+Per prima cosa creare il repository remoto tramite il pannello di controllo su GitHub
+
+git remote add origin https://github.com/delectablerec/full-stack-dotnet.git
+impostare un origine remota sulla quale effettuare i push
+
+git remote remove origin
+resettare un origine
+
+git remote -v
+per consultare l'origine attuale
+
+git push -u -f origin master (quello di josef)
+git push --set-upstream origin master
+effettuare il push
+
+
+siamo arrivati al video https://www.youtube.com/watch?v=dJ49Jiyb4mU
+
+fino al minuto 7:53
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

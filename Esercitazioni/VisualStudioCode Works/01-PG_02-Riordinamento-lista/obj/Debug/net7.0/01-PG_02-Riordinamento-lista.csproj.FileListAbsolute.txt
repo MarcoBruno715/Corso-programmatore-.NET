@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Corso fullstack developer\01-PG_02-Riordinamento-lista\bin\Debug\net7.0\01-PG_02-Riordinamento-lista.exe
+C:\Users\Admin\Documents\Corso fullstack developer\01-PG_02-Riordinamento-lista\bin\Debug\net7.0\01-PG_02-Riordinamento-lista.deps.json
+C:\Users\Admin\Documents\Corso fullstack developer\01-PG_02-Riordinamento-lista\bin\Debug\net7.0\01-PG_02-Riordinamento-lista.runtimeconfig.json
+C:\Users\Admin\Documents\Corso fullstack developer\01-PG_02-Riordinamento-lista\bin\Debug\net7.0\01-PG_02-Riordinamento-lista.dll
+C:\Users\Admin\Documents\Corso fullstack developer\01-PG_02-Riordinamento-lista\bin\Debug\net7.0\01-PG_02-Riordinamento-lista.pdb
+C:\Users\Admin\Documents\Corso fullstack developer\01-PG_02-Riordinamento-lista\obj\Debug\net7.0\01-PG_02-Riordinamento-lista.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Corso fullstack developer\01-PG_02-Riordinamento-lista\obj\Debug\net7.0\01-PG_02-Riordinamento-lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Corso fullstack developer\01-PG_02-Riordinamento-lista\obj\Debug\net7.0\01-PG_02-Riordinamento-lista.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Corso fullstack developer\01-PG_02-Riordinamento-lista\obj\Debug\net7.0\01-PG_02-Riordinamento-lista.AssemblyInfo.cs
+C:\Users\Admin\Documents\Corso fullstack developer\01-PG_02-Riordinamento-lista\obj\Debug\net7.0\01-PG_02-Riordinamento-lista.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Corso fullstack developer\01-PG_02-Riordinamento-lista\obj\Debug\net7.0\01-PG_02-Riordinamento-lista.dll
+C:\Users\Admin\Documents\Corso fullstack developer\01-PG_02-Riordinamento-lista\obj\Debug\net7.0\refint\01-PG_02-Riordinamento-lista.dll
+C:\Users\Admin\Documents\Corso fullstack developer\01-PG_02-Riordinamento-lista\obj\Debug\net7.0\01-PG_02-Riordinamento-lista.pdb
+C:\Users\Admin\Documents\Corso fullstack developer\01-PG_02-Riordinamento-lista\obj\Debug\net7.0\01-PG_02-Riordinamento-lista.genruntimeconfig.cache
+C:\Users\Admin\Documents\Corso fullstack developer\01-PG_02-Riordinamento-lista\obj\Debug\net7.0\ref\01-PG_02-Riordinamento-lista.dll

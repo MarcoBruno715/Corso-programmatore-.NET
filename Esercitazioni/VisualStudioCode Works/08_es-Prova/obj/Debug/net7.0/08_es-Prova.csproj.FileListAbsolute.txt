@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Corso fullstack developer\08_es-Prova\obj\Debug\net7.0\08_es-Prova.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Corso fullstack developer\08_es-Prova\obj\Debug\net7.0\08_es-Prova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Corso fullstack developer\08_es-Prova\obj\Debug\net7.0\08_es-Prova.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Corso fullstack developer\08_es-Prova\obj\Debug\net7.0\08_es-Prova.AssemblyInfo.cs
+C:\Users\Admin\Documents\Corso fullstack developer\08_es-Prova\obj\Debug\net7.0\08_es-Prova.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Corso fullstack developer\08_es-Prova\bin\Debug\net7.0\08_es-Prova.exe
+C:\Users\Admin\Documents\Corso fullstack developer\08_es-Prova\bin\Debug\net7.0\08_es-Prova.deps.json
+C:\Users\Admin\Documents\Corso fullstack developer\08_es-Prova\bin\Debug\net7.0\08_es-Prova.runtimeconfig.json
+C:\Users\Admin\Documents\Corso fullstack developer\08_es-Prova\bin\Debug\net7.0\08_es-Prova.dll
+C:\Users\Admin\Documents\Corso fullstack developer\08_es-Prova\bin\Debug\net7.0\08_es-Prova.pdb
+C:\Users\Admin\Documents\Corso fullstack developer\08_es-Prova\obj\Debug\net7.0\08_es-Prova.dll
+C:\Users\Admin\Documents\Corso fullstack developer\08_es-Prova\obj\Debug\net7.0\refint\08_es-Prova.dll
+C:\Users\Admin\Documents\Corso fullstack developer\08_es-Prova\obj\Debug\net7.0\08_es-Prova.pdb
+C:\Users\Admin\Documents\Corso fullstack developer\08_es-Prova\obj\Debug\net7.0\08_es-Prova.genruntimeconfig.cache
+C:\Users\Admin\Documents\Corso fullstack developer\08_es-Prova\obj\Debug\net7.0\ref\08_es-Prova.dll

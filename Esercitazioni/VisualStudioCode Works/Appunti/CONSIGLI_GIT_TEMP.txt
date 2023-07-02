@@ -1,0 +1,93 @@
+Git e GitHub possono essere utilizzati da due programmatori che lavorano sullo stesso progetto. In questo scenario, i passaggi da seguire sono i seguenti:
+Uno dei programmatori crea un repository remoto su GitHub.
+
+Invita l'altro programmatore a collaborare al progetto.
+Entrambi i programmatori usano git clone per scaricare una copia locale del repository.
+
+Sì, certo. Per impostare un ramo upstream con `-u` o `--upstream`, è possibile utilizzare il comando `git push -u <remote> <branch>`, dove `<remote>` è il nome del repository remoto e `<branch>` è il nome del ramo.
+
+Usano git pull per scaricare le modifiche dal repository remoto.
+Usano git push per inviare le proprie modifiche al repository remoto.
+Utilizzano le funzionalità di GitHub come le issue e le pull request per collaborare al progetto.
+Usano gli strumenti di gestione delle attività, analisi dei dati, integrazione e distribuzione e sicurezza di GitHub per gestire il progetto
+
+Per creare un repository locale con Git e Visual Studio Code, puoi seguire questi passaggi:
+
+1. Apri Visual Studio Code e crea una nuova cartella.
+
+2. Apri la cartella con Visual Studio Code.
+
+3. Apri il Terminale (Ctrl + `) nella finestra di Visual Studio Code.
+
+4. Digita `git init` per inizializzare un repository Git nella cartella.
+
+5. Aggiungi i file al repository usando `git add`.
+
+6. Salva le modifiche al repository usando `git commit`.
+
+7. Quando sei pronto, invia le modifiche al repository remoto usando `git push`.
+
+GitHub è un servizio che consente di archiviare e gestire repository Git. Ecco alcuni dei comandi di base per lavorare con GitHub:
+
+* `git clone`: clona un repository da un URL.
+* `git pull`: scarica le modifiche da un repository remoto.
+* `git push`: invia le modifiche a un repository remoto.
+* `git branch`: crea una nuova branch.
+* `git checkout`: cambia branch.
+* `git merge`: unisce due branch.
+* `git tag`: aggiunge un tag a una commit.
+* `git log`: mostra il log delle commit.
+
+COMMIT
+
+Un commit è una snapshot del codice in un determinato momento.
+Ogni volta che si apportano modifiche al codice, è possibile creare un commit per salvare una versione del codice.
+I commit possono quindi essere usati per ritornare a una versione precedente del codice o per confrontare le versioni precedenti e successive.
+
+Per creare un commit, devi prima aggiungere le modifiche al codice utilizzando il comando `git add`.
+Quindi, puoi usare il comando `git commit` per creare un commit. Quando esegui il comando `git commit`, devi fornire un messaggio che descrive le modifiche apportate. Una volta creato il commit, le modifiche verranno salvate nella storia del repository.
+
+TIP1
+
+Per evitare conflitti quando si lavora sullo stesso file, è consigliabile seguire alcune best practice.
+Ad esempio, è consigliabile usare `git pull` prima di iniziare a lavorare su un file per assicurarsi di avere la versione più aggiornata del file.
+Inoltre, è consigliabile usare `git commit` frequentemente per salvare le modifiche locali in modo che altri collaboratori possano vederle.
+Infine, è consigliabile usare `git merge` per unire le modifiche di più collaboratori in un singolo commit.
+
+TIP2
+
+Per vedere chi ha apportato modifiche a un file e quando, puoi usare il comando git log.
+Il comando git log mostrerà un elenco di tutte le commit che hanno modificato il file e fornirà informazioni come l'autore della commit, la data e l'ora della commit.
+Inoltre, puoi usare il comando git blame per vedere quale parte del file è stata modificata da una determinata commit
+
+TIP3
+
+Se dimentichi di usare `git add` prima di `git commit`, le modifiche non verranno salvate nel commit. Quindi, il commit verrà creato ma non conterrà alcuna modifica.
+Per evitare questo problema, assicurati di usare sempre `git add` prima di `git commit`.
+
+TIP4
+I branch sono versioni alternative del codice in un repository. Possono essere usati per sperimentare con nuove funzionalità, risolvere bug o collaborare con altri programmatori.
+I branch possono essere creati, eliminati e uniti al repository principale. I comandi `git branch`, `git checkout` e `git merge` possono essere usati per gestire i branch.
+
+TIP5
+
+Puoi spostarti tra i branch usando il comando `git checkout`. Ad esempio, puoi usare `git checkout <branch-name>` per spostarti su una branch specifica. Inoltre, puoi usare `git checkout -b <branch-name>` per creare una nuova branch e spostarti su di essa.
+
+TIP6
+Ricordarsi di effettuare almeno un commit altrimenti non si può effetture nessun push
+
+TIP7
+
+Per rinominare un branch in Git, è possibile utilizzare il comando `git branch -m <oldname> <newname>`, dove `<oldname>` è il nome del branch da rinominare e `<newname>` è il nuovo nome del branch.
+
+echo "# no-readme-repo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/delectablerec/no-readme-repo.git
+git push -u origin main
+…or push an existing repository from the command line
+git remote add origin https://github.com/delectablerec/no-readme-repo.git
+git branch -M main
+git push -u origin main

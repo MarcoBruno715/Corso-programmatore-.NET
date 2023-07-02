@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "\\\\DOCENTEA1\\condivisa_DOTNET\\02_es-TryParse\\02_esercitazione-introduzione.csproj": {}
+  },
+  "projects": {
+    "\\\\DOCENTEA1\\condivisa_DOTNET\\02_es-TryParse\\02_esercitazione-introduzione.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\DOCENTEA1\\condivisa_DOTNET\\02_es-TryParse\\02_esercitazione-introduzione.csproj",
+        "projectName": "02_esercitazione-introduzione",
+        "projectPath": "\\\\DOCENTEA1\\condivisa_DOTNET\\02_es-TryParse\\02_esercitazione-introduzione.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "\\\\DOCENTEA1\\condivisa_DOTNET\\02_es-TryParse\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

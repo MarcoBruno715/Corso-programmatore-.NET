@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Corso fullstack developer\04_es-operazioni-2\bin\Debug\net7.0\04_es-operazioni-2.exe
+C:\Users\Admin\Documents\Corso fullstack developer\04_es-operazioni-2\bin\Debug\net7.0\04_es-operazioni-2.deps.json
+C:\Users\Admin\Documents\Corso fullstack developer\04_es-operazioni-2\bin\Debug\net7.0\04_es-operazioni-2.runtimeconfig.json
+C:\Users\Admin\Documents\Corso fullstack developer\04_es-operazioni-2\bin\Debug\net7.0\04_es-operazioni-2.dll
+C:\Users\Admin\Documents\Corso fullstack developer\04_es-operazioni-2\bin\Debug\net7.0\04_es-operazioni-2.pdb
+C:\Users\Admin\Documents\Corso fullstack developer\04_es-operazioni-2\obj\Debug\net7.0\04_es-operazioni-2.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Corso fullstack developer\04_es-operazioni-2\obj\Debug\net7.0\04_es-operazioni-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Corso fullstack developer\04_es-operazioni-2\obj\Debug\net7.0\04_es-operazioni-2.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Corso fullstack developer\04_es-operazioni-2\obj\Debug\net7.0\04_es-operazioni-2.AssemblyInfo.cs
+C:\Users\Admin\Documents\Corso fullstack developer\04_es-operazioni-2\obj\Debug\net7.0\04_es-operazioni-2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Corso fullstack developer\04_es-operazioni-2\obj\Debug\net7.0\04_es-operazioni-2.dll
+C:\Users\Admin\Documents\Corso fullstack developer\04_es-operazioni-2\obj\Debug\net7.0\refint\04_es-operazioni-2.dll
+C:\Users\Admin\Documents\Corso fullstack developer\04_es-operazioni-2\obj\Debug\net7.0\04_es-operazioni-2.pdb
+C:\Users\Admin\Documents\Corso fullstack developer\04_es-operazioni-2\obj\Debug\net7.0\04_es-operazioni-2.genruntimeconfig.cache
+C:\Users\Admin\Documents\Corso fullstack developer\04_es-operazioni-2\obj\Debug\net7.0\ref\04_es-operazioni-2.dll

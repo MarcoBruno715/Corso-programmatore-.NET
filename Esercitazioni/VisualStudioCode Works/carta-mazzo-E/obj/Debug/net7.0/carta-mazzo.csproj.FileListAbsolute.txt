@@ -1,0 +1,30 @@
+C:\Users\Admin\Documents\Corso fullstack developer\carta-mazzo\bin\Debug\net7.0\carta-mazzo.exe
+C:\Users\Admin\Documents\Corso fullstack developer\carta-mazzo\bin\Debug\net7.0\carta-mazzo.deps.json
+C:\Users\Admin\Documents\Corso fullstack developer\carta-mazzo\bin\Debug\net7.0\carta-mazzo.runtimeconfig.json
+C:\Users\Admin\Documents\Corso fullstack developer\carta-mazzo\bin\Debug\net7.0\carta-mazzo.dll
+C:\Users\Admin\Documents\Corso fullstack developer\carta-mazzo\bin\Debug\net7.0\carta-mazzo.pdb
+C:\Users\Admin\Documents\Corso fullstack developer\carta-mazzo\obj\Debug\net7.0\carta-mazzo.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Corso fullstack developer\carta-mazzo\obj\Debug\net7.0\carta-mazzo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Corso fullstack developer\carta-mazzo\obj\Debug\net7.0\carta-mazzo.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Corso fullstack developer\carta-mazzo\obj\Debug\net7.0\carta-mazzo.AssemblyInfo.cs
+C:\Users\Admin\Documents\Corso fullstack developer\carta-mazzo\obj\Debug\net7.0\carta-mazzo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Corso fullstack developer\carta-mazzo\obj\Debug\net7.0\carta-mazzo.dll
+C:\Users\Admin\Documents\Corso fullstack developer\carta-mazzo\obj\Debug\net7.0\refint\carta-mazzo.dll
+C:\Users\Admin\Documents\Corso fullstack developer\carta-mazzo\obj\Debug\net7.0\carta-mazzo.pdb
+C:\Users\Admin\Documents\Corso fullstack developer\carta-mazzo\obj\Debug\net7.0\carta-mazzo.genruntimeconfig.cache
+C:\Users\Admin\Documents\Corso fullstack developer\carta-mazzo\obj\Debug\net7.0\ref\carta-mazzo.dll
+C:\Users\Marco\Documents\VisualStudio work\carta-mazzo-E\obj\Debug\net7.0\carta-mazzo.csproj.AssemblyReference.cache
+C:\Users\Marco\Documents\VisualStudio work\carta-mazzo-E\obj\Debug\net7.0\carta-mazzo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\VisualStudio work\carta-mazzo-E\obj\Debug\net7.0\carta-mazzo.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\VisualStudio work\carta-mazzo-E\obj\Debug\net7.0\carta-mazzo.AssemblyInfo.cs
+C:\Users\Marco\Documents\VisualStudio work\carta-mazzo-E\obj\Debug\net7.0\carta-mazzo.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\VisualStudio work\carta-mazzo-E\obj\Debug\net7.0\carta-mazzo.dll
+C:\Users\Marco\Documents\VisualStudio work\carta-mazzo-E\obj\Debug\net7.0\refint\carta-mazzo.dll
+C:\Users\Marco\Documents\VisualStudio work\carta-mazzo-E\obj\Debug\net7.0\carta-mazzo.pdb
+C:\Users\Marco\Documents\VisualStudio work\carta-mazzo-E\bin\Debug\net7.0\carta-mazzo.exe
+C:\Users\Marco\Documents\VisualStudio work\carta-mazzo-E\bin\Debug\net7.0\carta-mazzo.deps.json
+C:\Users\Marco\Documents\VisualStudio work\carta-mazzo-E\bin\Debug\net7.0\carta-mazzo.runtimeconfig.json
+C:\Users\Marco\Documents\VisualStudio work\carta-mazzo-E\bin\Debug\net7.0\carta-mazzo.dll
+C:\Users\Marco\Documents\VisualStudio work\carta-mazzo-E\bin\Debug\net7.0\carta-mazzo.pdb
+C:\Users\Marco\Documents\VisualStudio work\carta-mazzo-E\obj\Debug\net7.0\carta-mazzo.genruntimeconfig.cache
+C:\Users\Marco\Documents\VisualStudio work\carta-mazzo-E\obj\Debug\net7.0\ref\carta-mazzo.dll

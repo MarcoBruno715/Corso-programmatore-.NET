@@ -1,0 +1,15 @@
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/06_2D6_Inferiore_a/bin/Debug/net7.0/06_2D6_Inferiore_a
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/06_2D6_Inferiore_a/bin/Debug/net7.0/06_2D6_Inferiore_a.deps.json
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/06_2D6_Inferiore_a/bin/Debug/net7.0/06_2D6_Inferiore_a.runtimeconfig.json
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/06_2D6_Inferiore_a/bin/Debug/net7.0/06_2D6_Inferiore_a.dll
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/06_2D6_Inferiore_a/bin/Debug/net7.0/06_2D6_Inferiore_a.pdb
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/06_2D6_Inferiore_a/obj/Debug/net7.0/06_2D6_Input_Loop.csproj.AssemblyReference.cache
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/06_2D6_Inferiore_a/obj/Debug/net7.0/06_2D6_Input_Loop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/06_2D6_Inferiore_a/obj/Debug/net7.0/06_2D6_Input_Loop.AssemblyInfoInputs.cache
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/06_2D6_Inferiore_a/obj/Debug/net7.0/06_2D6_Input_Loop.AssemblyInfo.cs
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/06_2D6_Inferiore_a/obj/Debug/net7.0/06_2D6_Input_Loop.csproj.CoreCompileInputs.cache
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/06_2D6_Inferiore_a/obj/Debug/net7.0/06_2D6_Inferiore_a.dll
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/06_2D6_Inferiore_a/obj/Debug/net7.0/refint/06_2D6_Inferiore_a.dll
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/06_2D6_Inferiore_a/obj/Debug/net7.0/06_2D6_Inferiore_a.pdb
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/06_2D6_Inferiore_a/obj/Debug/net7.0/06_2D6_Input_Loop.genruntimeconfig.cache
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/06_2D6_Inferiore_a/obj/Debug/net7.0/ref/06_2D6_Inferiore_a.dll

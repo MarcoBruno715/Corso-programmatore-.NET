@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Corso fullstack developer\esercizio 11\bin\Debug\net7.0\esercizio 11.exe
+C:\Users\Admin\Documents\Corso fullstack developer\esercizio 11\bin\Debug\net7.0\esercizio 11.deps.json
+C:\Users\Admin\Documents\Corso fullstack developer\esercizio 11\bin\Debug\net7.0\esercizio 11.runtimeconfig.json
+C:\Users\Admin\Documents\Corso fullstack developer\esercizio 11\bin\Debug\net7.0\esercizio 11.dll
+C:\Users\Admin\Documents\Corso fullstack developer\esercizio 11\bin\Debug\net7.0\esercizio 11.pdb
+C:\Users\Admin\Documents\Corso fullstack developer\esercizio 11\obj\Debug\net7.0\esercizio 11.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Corso fullstack developer\esercizio 11\obj\Debug\net7.0\esercizio 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Corso fullstack developer\esercizio 11\obj\Debug\net7.0\esercizio 11.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Corso fullstack developer\esercizio 11\obj\Debug\net7.0\esercizio 11.AssemblyInfo.cs
+C:\Users\Admin\Documents\Corso fullstack developer\esercizio 11\obj\Debug\net7.0\esercizio 11.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Corso fullstack developer\esercizio 11\obj\Debug\net7.0\esercizio 11.dll
+C:\Users\Admin\Documents\Corso fullstack developer\esercizio 11\obj\Debug\net7.0\refint\esercizio 11.dll
+C:\Users\Admin\Documents\Corso fullstack developer\esercizio 11\obj\Debug\net7.0\esercizio 11.pdb
+C:\Users\Admin\Documents\Corso fullstack developer\esercizio 11\obj\Debug\net7.0\esercizio 11.genruntimeconfig.cache
+C:\Users\Admin\Documents\Corso fullstack developer\esercizio 11\obj\Debug\net7.0\ref\esercizio 11.dll

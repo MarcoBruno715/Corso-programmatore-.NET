@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\VisualStudio work\bho\bin\Debug\net7.0\bho.exe
+C:\Users\Marco\Documents\VisualStudio work\bho\bin\Debug\net7.0\bho.deps.json
+C:\Users\Marco\Documents\VisualStudio work\bho\bin\Debug\net7.0\bho.runtimeconfig.json
+C:\Users\Marco\Documents\VisualStudio work\bho\bin\Debug\net7.0\bho.dll
+C:\Users\Marco\Documents\VisualStudio work\bho\bin\Debug\net7.0\bho.pdb
+C:\Users\Marco\Documents\VisualStudio work\bho\obj\Debug\net7.0\bho.csproj.AssemblyReference.cache
+C:\Users\Marco\Documents\VisualStudio work\bho\obj\Debug\net7.0\bho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\VisualStudio work\bho\obj\Debug\net7.0\bho.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\VisualStudio work\bho\obj\Debug\net7.0\bho.AssemblyInfo.cs
+C:\Users\Marco\Documents\VisualStudio work\bho\obj\Debug\net7.0\bho.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\VisualStudio work\bho\obj\Debug\net7.0\bho.dll
+C:\Users\Marco\Documents\VisualStudio work\bho\obj\Debug\net7.0\refint\bho.dll
+C:\Users\Marco\Documents\VisualStudio work\bho\obj\Debug\net7.0\bho.pdb
+C:\Users\Marco\Documents\VisualStudio work\bho\obj\Debug\net7.0\bho.genruntimeconfig.cache
+C:\Users\Marco\Documents\VisualStudio work\bho\obj\Debug\net7.0\ref\bho.dll

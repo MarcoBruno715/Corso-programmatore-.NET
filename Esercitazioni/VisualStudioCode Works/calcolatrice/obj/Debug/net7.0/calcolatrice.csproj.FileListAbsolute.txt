@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\VisualStudio work\calcolatrice\bin\Debug\net7.0\calcolatrice.exe
+C:\Users\Marco\Documents\VisualStudio work\calcolatrice\bin\Debug\net7.0\calcolatrice.deps.json
+C:\Users\Marco\Documents\VisualStudio work\calcolatrice\bin\Debug\net7.0\calcolatrice.runtimeconfig.json
+C:\Users\Marco\Documents\VisualStudio work\calcolatrice\bin\Debug\net7.0\calcolatrice.dll
+C:\Users\Marco\Documents\VisualStudio work\calcolatrice\bin\Debug\net7.0\calcolatrice.pdb
+C:\Users\Marco\Documents\VisualStudio work\calcolatrice\obj\Debug\net7.0\calcolatrice.csproj.AssemblyReference.cache
+C:\Users\Marco\Documents\VisualStudio work\calcolatrice\obj\Debug\net7.0\calcolatrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\VisualStudio work\calcolatrice\obj\Debug\net7.0\calcolatrice.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\VisualStudio work\calcolatrice\obj\Debug\net7.0\calcolatrice.AssemblyInfo.cs
+C:\Users\Marco\Documents\VisualStudio work\calcolatrice\obj\Debug\net7.0\calcolatrice.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\VisualStudio work\calcolatrice\obj\Debug\net7.0\calcolatrice.dll
+C:\Users\Marco\Documents\VisualStudio work\calcolatrice\obj\Debug\net7.0\refint\calcolatrice.dll
+C:\Users\Marco\Documents\VisualStudio work\calcolatrice\obj\Debug\net7.0\calcolatrice.pdb
+C:\Users\Marco\Documents\VisualStudio work\calcolatrice\obj\Debug\net7.0\calcolatrice.genruntimeconfig.cache
+C:\Users\Marco\Documents\VisualStudio work\calcolatrice\obj\Debug\net7.0\ref\calcolatrice.dll

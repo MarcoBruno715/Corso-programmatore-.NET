@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "08_Gamification_Opponente/1.0.0": {
+        "runtime": {
+          "08_Gamification_Opponente.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "08_Gamification_Opponente/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/11_2D6_Punteggio_Variabile/bin/Debug/net7.0/11_2D6_Punteggio_Variabile
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/11_2D6_Punteggio_Variabile/bin/Debug/net7.0/11_2D6_Punteggio_Variabile.deps.json
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/11_2D6_Punteggio_Variabile/bin/Debug/net7.0/11_2D6_Punteggio_Variabile.runtimeconfig.json
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/11_2D6_Punteggio_Variabile/bin/Debug/net7.0/11_2D6_Punteggio_Variabile.dll
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/11_2D6_Punteggio_Variabile/bin/Debug/net7.0/11_2D6_Punteggio_Variabile.pdb
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/11_2D6_Punteggio_Variabile/obj/Debug/net7.0/11_2D6_Punteggio_Variabile.csproj.AssemblyReference.cache
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/11_2D6_Punteggio_Variabile/obj/Debug/net7.0/11_2D6_Punteggio_Variabile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/11_2D6_Punteggio_Variabile/obj/Debug/net7.0/11_2D6_Punteggio_Variabile.AssemblyInfoInputs.cache
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/11_2D6_Punteggio_Variabile/obj/Debug/net7.0/11_2D6_Punteggio_Variabile.AssemblyInfo.cs
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/11_2D6_Punteggio_Variabile/obj/Debug/net7.0/11_2D6_Punteggio_Variabile.csproj.CoreCompileInputs.cache
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/11_2D6_Punteggio_Variabile/obj/Debug/net7.0/11_2D6_Punteggio_Variabile.dll
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/11_2D6_Punteggio_Variabile/obj/Debug/net7.0/refint/11_2D6_Punteggio_Variabile.dll
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/11_2D6_Punteggio_Variabile/obj/Debug/net7.0/11_2D6_Punteggio_Variabile.pdb
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/11_2D6_Punteggio_Variabile/obj/Debug/net7.0/11_2D6_Punteggio_Variabile.genruntimeconfig.cache
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/11_2D6_Punteggio_Variabile/obj/Debug/net7.0/ref/11_2D6_Punteggio_Variabile.dll

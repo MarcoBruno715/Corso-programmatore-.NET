@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Corso fullstack developer\ripasso\bin\Debug\net7.0\ripasso.exe
+C:\Users\Admin\Documents\Corso fullstack developer\ripasso\bin\Debug\net7.0\ripasso.deps.json
+C:\Users\Admin\Documents\Corso fullstack developer\ripasso\bin\Debug\net7.0\ripasso.runtimeconfig.json
+C:\Users\Admin\Documents\Corso fullstack developer\ripasso\bin\Debug\net7.0\ripasso.dll
+C:\Users\Admin\Documents\Corso fullstack developer\ripasso\bin\Debug\net7.0\ripasso.pdb
+C:\Users\Admin\Documents\Corso fullstack developer\ripasso\obj\Debug\net7.0\ripasso.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Corso fullstack developer\ripasso\obj\Debug\net7.0\ripasso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Corso fullstack developer\ripasso\obj\Debug\net7.0\ripasso.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Corso fullstack developer\ripasso\obj\Debug\net7.0\ripasso.AssemblyInfo.cs
+C:\Users\Admin\Documents\Corso fullstack developer\ripasso\obj\Debug\net7.0\ripasso.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Corso fullstack developer\ripasso\obj\Debug\net7.0\ripasso.dll
+C:\Users\Admin\Documents\Corso fullstack developer\ripasso\obj\Debug\net7.0\refint\ripasso.dll
+C:\Users\Admin\Documents\Corso fullstack developer\ripasso\obj\Debug\net7.0\ripasso.pdb
+C:\Users\Admin\Documents\Corso fullstack developer\ripasso\obj\Debug\net7.0\ripasso.genruntimeconfig.cache
+C:\Users\Admin\Documents\Corso fullstack developer\ripasso\obj\Debug\net7.0\ref\ripasso.dll

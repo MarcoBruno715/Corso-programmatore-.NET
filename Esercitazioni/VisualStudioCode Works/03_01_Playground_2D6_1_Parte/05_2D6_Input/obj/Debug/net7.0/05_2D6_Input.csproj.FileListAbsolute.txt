@@ -1,0 +1,15 @@
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/05_2D6_Input/bin/Debug/net7.0/05_2D6_Input
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/05_2D6_Input/bin/Debug/net7.0/05_2D6_Input.deps.json
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/05_2D6_Input/bin/Debug/net7.0/05_2D6_Input.runtimeconfig.json
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/05_2D6_Input/bin/Debug/net7.0/05_2D6_Input.dll
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/05_2D6_Input/bin/Debug/net7.0/05_2D6_Input.pdb
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/05_2D6_Input/obj/Debug/net7.0/05_2D6_Input.csproj.AssemblyReference.cache
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/05_2D6_Input/obj/Debug/net7.0/05_2D6_Input.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/05_2D6_Input/obj/Debug/net7.0/05_2D6_Input.AssemblyInfoInputs.cache
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/05_2D6_Input/obj/Debug/net7.0/05_2D6_Input.AssemblyInfo.cs
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/05_2D6_Input/obj/Debug/net7.0/05_2D6_Input.csproj.CoreCompileInputs.cache
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/05_2D6_Input/obj/Debug/net7.0/05_2D6_Input.dll
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/05_2D6_Input/obj/Debug/net7.0/refint/05_2D6_Input.dll
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/05_2D6_Input/obj/Debug/net7.0/05_2D6_Input.pdb
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/05_2D6_Input/obj/Debug/net7.0/05_2D6_Input.genruntimeconfig.cache
+/Users/imac/Projects/PLAYGROUND_00_CONSOLE/05_2D6_Input/obj/Debug/net7.0/ref/05_2D6_Input.dll
