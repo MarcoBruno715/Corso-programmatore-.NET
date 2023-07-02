@@ -1,5 +1,0 @@
-C:\Users\Marco\Documents\VisualStudio work\esercizio\obj\Debug\net7.0\esercizio.csproj.AssemblyReference.cache
-C:\Users\Marco\Documents\VisualStudio work\esercizio\obj\Debug\net7.0\esercizio.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Marco\Documents\VisualStudio work\esercizio\obj\Debug\net7.0\esercizio.AssemblyInfoInputs.cache
-C:\Users\Marco\Documents\VisualStudio work\esercizio\obj\Debug\net7.0\esercizio.AssemblyInfo.cs
-C:\Users\Marco\Documents\VisualStudio work\esercizio\obj\Debug\net7.0\esercizio.csproj.CoreCompileInputs.cache

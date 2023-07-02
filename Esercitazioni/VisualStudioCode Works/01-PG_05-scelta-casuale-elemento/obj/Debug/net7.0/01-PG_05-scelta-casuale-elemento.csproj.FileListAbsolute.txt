@@ -1,5 +1,0 @@
-C:\Users\Marco\Documents\VisualStudio work\01-PG_05-scelta-casuale-elemento\obj\Debug\net7.0\01-PG_05-scelta-casuale-elemento.csproj.AssemblyReference.cache
-C:\Users\Marco\Documents\VisualStudio work\01-PG_05-scelta-casuale-elemento\obj\Debug\net7.0\01-PG_05-scelta-casuale-elemento.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Marco\Documents\VisualStudio work\01-PG_05-scelta-casuale-elemento\obj\Debug\net7.0\01-PG_05-scelta-casuale-elemento.AssemblyInfoInputs.cache
-C:\Users\Marco\Documents\VisualStudio work\01-PG_05-scelta-casuale-elemento\obj\Debug\net7.0\01-PG_05-scelta-casuale-elemento.AssemblyInfo.cs
-C:\Users\Marco\Documents\VisualStudio work\01-PG_05-scelta-casuale-elemento\obj\Debug\net7.0\01-PG_05-scelta-casuale-elemento.csproj.CoreCompileInputs.cache
